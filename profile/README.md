@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/86287920/185669488-e3ca254d-d1ce-4456-97e9-d637329f2077.PNG" width="200" height="200"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/86287920/185669488-e3ca254d-d1ce-4456-97e9-d637329f2077.PNG" width="250" height="200"></p>
 <h1 align="center">Daeyang Highschool Cloud Computing</h1>
 
 <p align="center">
